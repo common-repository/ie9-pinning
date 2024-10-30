@@ -1,0 +1,90 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ie9-pinning\n"
+"POT-Creation-Date: 2010-09-26 10:21+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: IE9-Pinning.php:52 IE9-Pinning.php:136
+msgid "Write a post"
+msgstr ""
+
+#: IE9-Pinning.php:55 IE9-Pinning.php:137
+msgid "Moderate comments"
+msgstr ""
+
+#: IE9-Pinning.php:58 IE9-Pinning.php:138
+msgid "Upload new media"
+msgstr ""
+
+#: IE9-Pinning.php:62
+msgid "Recent posts"
+msgstr ""
+
+#: IE9-Pinning.php:75
+msgid "IE9 Pinning Options"
+msgstr ""
+
+#: IE9-Pinning.php:92
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: IE9-Pinning.php:102
+msgid "Internet Explorer 9 Pinning settings"
+msgstr ""
+
+#: IE9-Pinning.php:103
+msgid "Pick the color you want for your visitor's browser buttons"
+msgstr ""
+
+#: IE9-Pinning.php:129
+msgid "Save options"
+msgstr ""
+
+#: IE9-Pinning.php:131
+msgid ""
+"Please note you must de-pin and re-pin your website for the color feature to "
+"be applied!"
+msgstr ""
+
+#: IE9-Pinning.php:132
+msgid "What else does this do?"
+msgstr ""
+
+#: IE9-Pinning.php:133
+msgid "This will add a few other features beyond the navigation buttons color."
+msgstr ""
+
+#: IE9-Pinning.php:135
+msgid ""
+"Add a link to the 5 most recent blog posts in the context menu of the "
+"taskbar link."
+msgstr ""
+
+#: IE9-Pinning.php:136 IE9-Pinning.php:137 IE9-Pinning.php:138
+#, php-format
+msgid "Add a <em>%s</em> item for users who are allowed to"
+msgstr ""
+
+#: IE9-Pinning.php:139
+#, php-format
+msgid "Add <em>%s</em> as the <em>name</em> of the site."
+msgstr ""
+
+#: IE9-Pinning.php:140
+#, php-format
+msgid ""
+"Add <em>%s</em> as the tooltip when hovering the site's button on taskbar or "
+"start menu."
+msgstr ""

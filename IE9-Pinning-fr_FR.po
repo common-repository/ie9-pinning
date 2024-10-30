@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IE9-Pinning\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-22 23:26+0100\n"
+"PO-Revision-Date: 2010-09-22 23:32+0100\n"
+"Last-Translator: David Collin <thanerd@gmail.com>\n"
+"Language-Team: David Collin <thanerd@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: IE9-Pinning.php:53
+#: IE9-Pinning.php:133
+#: ie9-pinning/tags/1.0.1/IE9-Pinning.php:49
+#: ie9-pinning/tags/1.1.0/IE9-Pinning.php:49
+#: ie9-pinning/trunk/IE9-Pinning.php:49
+msgid "Write a post"
+msgstr "Écrire un article"
+
+#: IE9-Pinning.php:56
+#: IE9-Pinning.php:134
+#: ie9-pinning/tags/1.0.1/IE9-Pinning.php:52
+#: ie9-pinning/tags/1.1.0/IE9-Pinning.php:52
+#: ie9-pinning/trunk/IE9-Pinning.php:52
+msgid "Moderate comments"
+msgstr "Modérer les commentaires"
+
+#: IE9-Pinning.php:59
+#: IE9-Pinning.php:135
+#: ie9-pinning/tags/1.0.1/IE9-Pinning.php:55
+#: ie9-pinning/tags/1.1.0/IE9-Pinning.php:55
+#: ie9-pinning/trunk/IE9-Pinning.php:55
+msgid "Upload new media"
+msgstr "Télécharger un nouveau média"
+
+#: IE9-Pinning.php:62
+#: ie9-pinning/tags/1.0.1/IE9-Pinning.php:58
+#: ie9-pinning/tags/1.1.0/IE9-Pinning.php:58
+#: ie9-pinning/trunk/IE9-Pinning.php:58
+msgid "Recent posts"
+msgstr "Articles récents"
+
+#: IE9-Pinning.php:75
+msgid "IE9 Pinning Options"
+msgstr "Options d'épinglage IE9"
+
+#: IE9-Pinning.php:91
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas de droits suffisants pour accéder à cette page."
+
+#: IE9-Pinning.php:100
+msgid "Internet Explorer 9 Pinning settings"
+msgstr "Paramètres éplinglage Internet Explorer 9"
+
+#: IE9-Pinning.php:101
+msgid "Pick the color you want for your visitor's browser buttons"
+msgstr "Choisissez la couleur que vous voulez pour les boutons de navigation de vos visiteurs"
+
+#: IE9-Pinning.php:127
+msgid "Save options"
+msgstr "Enregistrer les options"
+
+#: IE9-Pinning.php:129
+msgid "What else does this do?"
+msgstr "Qu'est-ce que ça fait d'autre?"
+
+#: IE9-Pinning.php:130
+msgid "This will add a few other features beyond the navigation buttons color."
+msgstr "Cela ajoutera d'autre fonctions, en dehors de la couleur des boutons de navigation."
+
+#: IE9-Pinning.php:132
+msgid "Add a link to the 5 most recent blog posts in the context menu of the taskbar link."
+msgstr "Ajoute un lien vers les 5 articles les plus récents dans le menu contextuel du lien dans la barre des tâches"
+
+#: IE9-Pinning.php:133
+#: IE9-Pinning.php:134
+#: IE9-Pinning.php:135
+#, php-format
+msgid "Add a <em>%s</em> item for users who are allowed to"
+msgstr "Ajoute un élément <em>%s</em> pour les utilisateurs autorisés"
+
+#: IE9-Pinning.php:136
+#, php-format
+msgid "Add <em>%s</em> as the <em>name</em> of the site."
+msgstr "Ajoute <em>%s</em> comme <em>nom</em> du site."
+
+#: IE9-Pinning.php:137
+#, php-format
+msgid "Add <em>%s</em> as the tooltip when hovering the site's button on taskbar or start menu."
+msgstr "Ajoute <em>%s</em> comme infobulle quand vous survolez le bouton de la barre des tâches ou du menu démarrer."
+
